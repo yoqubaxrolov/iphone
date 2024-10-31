@@ -12,3 +12,4 @@ name = input("ismingizni kiriting ")
 car = Car("BMW", 120000000)
 car.owner = name
 print(f"maashina nomi: {car.name}, narxi: {car.cost}, yangi mashina egasining ismi: {car.owner}")
+
